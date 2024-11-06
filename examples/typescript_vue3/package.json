@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@iits-consulting/vue-keycloak-js": "2.4.0",
+    "@iits-consulting/vue-keycloak-js": "2.4.1",
     "core-js": "^3.30.2",
     "vue": "^3.3.4"
   },
