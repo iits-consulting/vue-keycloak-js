@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import VueKeycloakJs from '@dsb-norge/vue-keycloak-js'
+import VueKeycloakJs from '@iits-consulting/vue-keycloak-js'
 
 Vue.config.productionTip = false
 

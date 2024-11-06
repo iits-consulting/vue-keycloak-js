@@ -5,7 +5,7 @@ import type {
   VueKeycloakInstance,
   KeycloakError,
   VueKeycloakTokenParsed, Vue2Vue3App
-} from './types'
+} from './types.js'
 
 let installed = false
 
