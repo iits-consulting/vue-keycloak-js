@@ -1,8 +1,8 @@
 import { createApp } from 'vue'
-import VueKeycloakJs from '@dsb-norge/vue-keycloak-js'
+import VueKeycloakJs from '@iits-consulting/vue-keycloak-js'
 import App from './App.vue'
 import Keycloak from "keycloak-js";
-import {VueKeycloakInstance} from "@dsb-norge/vue-keycloak-js/dist/types";
+import {VueKeycloakInstance} from "@iits-consulting/vue-keycloak-js/dist/types";
 
 createApp(App)
   .use(VueKeycloakJs, {
