@@ -1,6 +1,6 @@
 {
   "name": "@iits-consulting/vue-keycloak-js",
-  "version": "2.4.1",
+  "version": "26.0.5",
   "author": "Norwegian Directorate for Civil Protection",
   "description": "A Keycloak plugin for Vue >= 2.x",
   "main": "dist/dsb-vue-keycloak.cjs.js",
@@ -13,12 +13,9 @@
     "type": "git",
     "url": "git@github.com:iits-consulting/vue-keycloak-js.git"
   },
-  "bugs": {
-    "url": "https://github.com/iits-consulting/vue-keycloak-js/issues"
-  },
   "homepage": "https://github.com/iits-consulting/vue-keycloak-js",
   "dependencies": {
-    "keycloak-js": "^26.0.5"
+    "keycloak-js": "26.0.5"
   },
   "keywords": [
     "vue",
